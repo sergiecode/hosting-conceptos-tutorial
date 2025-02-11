@@ -1,6 +1,15 @@
 # HOSTING Y SEGURIDAD WEB
 
-TODO LO QUE NECESITAS SABER PARA ADMINISTRAR TU SITIO PROFESIONALMENTE
+> **Nota:** Esta explicación pertenece a mi video de YouTube.  
+> 📺 [Sergie Code en YouTube](https://youtube.com/@sergiecode)  
+
+💡 **Descuento exclusivo de Hostinger**  
+Hostinger nos ha dado un código de descuento especial para mis seguidores:  
+
+🔹 **4 años por 142€ (155 USD)**  
+🔹 **Código de descuento:** `SERGIE`  
+🔹 **Enlace:** [www.hostinger.es/sergie](https://www.hostinger.es/sergie)  
+
 
 ![Hosting desde cero imagen 01](https://raw.githubusercontent.com/sergiecode/hosting-conceptos-tutorial/refs/heads/main/Diapositivas/01.png)
 
