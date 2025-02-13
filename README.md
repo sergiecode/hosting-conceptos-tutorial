@@ -1,7 +1,7 @@
 # HOSTING Y SEGURIDAD WEB
 
 > **Nota:** Esta explicación pertenece a mi video de YouTube.  
-> 📺 [Sergie Code en YouTube](https://youtube.com/@sergiecode)  
+> 📺 [Hosting desde cero](https://youtu.be/5hLNtfEwFRQ)  
 
 💡 **Descuento exclusivo de Hostinger**  
 Hostinger nos ha dado un código de descuento especial para mis seguidores:  
